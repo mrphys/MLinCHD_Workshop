@@ -29,15 +29,18 @@ There will be three hands-on workshops, held on zoom:
 
   1. General principles and theory of machine learning (Wednesday 27th July 2022, 5pm UK time)
      
-     https://www.eventbrite.co.uk/e/363916101857 
+     Register [here](https://www.eventbrite.co.uk/e/363916101857).
+     Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop1/Exercises.ipynb).
 
   2. A classification task in CHD (Wednesday 31st August 2022, 5pm UK time)
      
-     https://www.eventbrite.co.uk/e/363924787837 
+     Register [here](https://www.eventbrite.co.uk/e/363924787837).
+     Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop2/Exercises.ipynb).
 
   3. A segmentation task in CHD (Wednesday 28th September 2022, 5pm UK time)
      
-     https://www.eventbrite.co.uk/e/363925359547
+     Register [here](https://www.eventbrite.co.uk/e/363925359547).
+     Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop3/Exercises.ipynb).
 
 
 It is not compulsory to attend all three, however we recommend that you do, to get the most out of these sessions. You must register for each event which you would like to attend using the links above, and further details will be sent to the atendees nearer the event.
