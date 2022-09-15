@@ -32,18 +32,24 @@ There will be three hands-on workshops, held on zoom:
      Register [here](https://www.eventbrite.co.uk/e/363916101857).
      Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop1/Exercises.ipynb).
 
-  2. A classification task in CHD (Wednesday 31st August 2022, 5pm UK time)
+  2. Part 1: A classification task in CHD (Wednesday 31st August 2022, 5pm UK time)
      
      Register [here](https://www.eventbrite.co.uk/e/363924787837).
      Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop2/Exercises.ipynb).
 
-  3. A segmentation task in CHD (Wednesday 28th September 2022, 5pm UK time)
+  3. Part 2: A classification task in CHD (Wednesday 28th September 2022, 5pm UK time)
      
      Register [here](https://www.eventbrite.co.uk/e/363925359547).
      Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop3/Exercises.ipynb).
 
+  
+  4. A segmentation task in CHD (Wednesday 26th October 2022, 5pm UK time)
+     
+     Register [here](https://www.eventbrite.co.uk/e/396038189887).
+     Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop4/Exercises.ipynb).
 
-It is not compulsory to attend all three, however we recommend that you do, to get the most out of these sessions. You must register for each event which you would like to attend using the links above, and further details will be sent to the atendees nearer the event.
+
+It is not compulsory to attend all four, however we recommend that you do, to get the most out of these sessions. You must register for each event which you would like to attend using the links above, and further details will be sent to the atendees nearer the event.
 There is no cost to attend any of these events.
 
 ## Who Can attend:
