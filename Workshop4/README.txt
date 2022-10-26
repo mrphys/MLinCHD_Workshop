@@ -1,0 +1,1 @@
+The datasets used for these simulations are available at:   https://github.com/saeedkarimi/Cardiac_MRI_Segmentation
