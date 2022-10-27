@@ -25,32 +25,16 @@ The goal of these workshops is for you to learn about ML, and take these lessons
 
 ## Where and When:
 
-There will be three hands-on workshops, held on zoom:
+There were four hands-on workshops (July-October 2022). The recordins from each can be found in the corresponding folder above (along with code and slides):
 
-  1. General principles and theory of machine learning (Wednesday 27th July 2022, 5pm UK time)
-     
-     Register [here](https://www.eventbrite.co.uk/e/363916101857).
-     Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop1/Exercises.ipynb).
+  Workshop 1. General principles and theory of machine learning 
 
-  2. Part 1: A classification task in CHD (Wednesday 31st August 2022, 5pm UK time)
-     
-     Register [here](https://www.eventbrite.co.uk/e/363924787837).
-     Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop2/Exercises.ipynb).
+  Workshop 2. A recap plus Part 1 of a classification task in CHD 
 
-  3. Part 2: A classification task in CHD (Wednesday 28th September 2022, 5pm UK time)
-     
-     Register [here](https://www.eventbrite.co.uk/e/363925359547).
-     Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop3/Exercises.ipynb).
-
+  Workshop 3. Part 2 of a classification task in CHD and recap
   
-  4. A segmentation task in CHD (Wednesday 26th October 2022, 5pm UK time)
-     
-     Register [here](https://www.eventbrite.co.uk/e/396038189887).
-     Follow the hands-on exercises [here](https://colab.research.google.com/github/mrphys/MLinCHD_Workshop/blob/master/Workshop4/Exercises.ipynb).
+  Workshop 4. A segmentation task in CHD 
 
-
-It is not compulsory to attend all four, however we recommend that you do, to get the most out of these sessions. You must register for each event which you would like to attend using the links above, and further details will be sent to the atendees nearer the event.
-There is no cost to attend any of these events.
 
 ## Who Can attend:
 
